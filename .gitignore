@@ -1,3 +1,7 @@
+# Kaggle Data
+data/test/
+data/train/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
